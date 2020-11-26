@@ -6,18 +6,12 @@
 ## _Code 401 - Advanced Software Development_
 
 
-- This is where I put all the readings from my code-201 class.
-- I would like to thank
-    1. James Gerstenberger 
-        - who helped me on fixing issues on this page and
-    2. Rosalyn Johnson 
-        - for reviewing my job and commenting things that needs to be fixed 
 
 ## **Table of Contents**
 
 [class 01 reading](class-01.md)
 
-[class 02 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-02)
+[class 02 reading](https://wondwosentsige.github.io/reading-notes/class-02)
 
 [class 03 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-03)
 
