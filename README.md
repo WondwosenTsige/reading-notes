@@ -8,7 +8,7 @@
 
 [class 01 reading](https://wondwosentsige.github.io/reading-notes/Code-201/class-01)
 
-[class 02 reading](https://wondwosentsige.github.io/reading-notes/class-02)
+[class 02 reading](https://wondwosentsige.github.io/reading-notes/Code-201/class-02)
 
 [class 03 reading](https://wondwosentsige.github.io/reading-notes/class-03)
 
