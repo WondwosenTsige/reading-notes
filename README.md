@@ -2,7 +2,8 @@
 
 ## _Code 102 - Intro to Software Development_
 
-## _Code 201 - Foundations of Software Development_
+[## _Code 201 - Foundations of Software Development_](https://wondwosentsige.github.io/reading-notes/Code-201/Code 201 - Foundation of Software Development.md)
+)
 
 ### **Table of Contents**
 
