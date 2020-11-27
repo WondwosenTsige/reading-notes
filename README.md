@@ -6,7 +6,7 @@
 
 ### **Table of Contents**
 
-[class 01 reading](https://wondwosentsige.github.io/Code201/reading-notes/class-01)
+[class 01 reading](https://wondwosentsige.github.io/reading-notes/Code-201/class-01)
 
 [class 02 reading](https://wondwosentsige.github.io/reading-notes/class-02)
 
