@@ -1,5 +1,5 @@
 
-### [Table of Contents](https://wondwosentsige.github.io/code-201-reading-notes/Home)
+### [Table of Contents](https://wondwosentsige.github.io/reading-notes/Code-201/Home)
 
 ## Class 04 reading notes
 
@@ -101,6 +101,6 @@ known as an absolute URL. Example <a href="http://www.empireonline.com"> Empire<
 
 
 
-[>> NEXT (class 05 reading)](https://wondwosentsige.github.io/code-201-reading-notes/class-05)
+[>> NEXT (class 05 reading)](https://wondwosentsige.github.io/reading-notes/Code-201/class-05)
 
 

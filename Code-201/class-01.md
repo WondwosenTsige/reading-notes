@@ -1,7 +1,7 @@
 
 ## _Code 201 - Foundations of Software Development_
 
-### [Table of Contents](https://wondwosentsige.github.io/reading-notes/Code-201/class-01)
+### [Table of Contents](https://wondwosentsige.github.io/reading-notes/Code-201/Home)
 
 ## Class 01 reading notes
 
@@ -100,6 +100,6 @@
 
 
 
-[>> NEXT (class 02 reading)](https://wondwosentsige.github.io/code-201-reading-notes/class-02)
+[>> NEXT (class 02 reading)](https://wondwosentsige.github.io/reading-notes/Code-201/class-02)
 
 

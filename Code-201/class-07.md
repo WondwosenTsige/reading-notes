@@ -1,5 +1,5 @@
 
-### [Table of Contents](https://wondwosentsige.github.io/code-201-reading-notes/Home)
+### [Table of Contents](https://wondwosentsige.github.io/reading-notes/Code-201/Home)
 
 ## Class 07 reading notes
 
@@ -109,6 +109,6 @@ Here's some tips to follow when building your own domain models.
 
 
 
-[>> NEXT (class 08 reading)](https://wondwosentsige.github.io/code-201-reading-notes/class-08)
+[>> NEXT (class 08 reading)](https://wondwosentsige.github.io/reading-notes/Code-201/class-08)
 
 

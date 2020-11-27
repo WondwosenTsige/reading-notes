@@ -1,5 +1,5 @@
 
-### [Table of Contents](https://wondwosentsige.github.io/code-201-reading-notes/Home)
+### [Table of Contents](https://wondwosentsige.github.io/reading-notes/Code-201/Home)
 
 ## Class 13 reading notes
 
@@ -37,6 +37,6 @@
 
 
 
-[>> NEXT (class 14a reading)](https://wondwosentsige.github.io/code-201-reading-notes/class-14a)
+[>> NEXT (class 14a reading)](https://wondwosentsige.github.io/reading-notes/Code-201/class-14a)
 
 

@@ -1,5 +1,5 @@
 
-### [Table of Contents](https://wondwosentsige.github.io/reading-notes/Home)
+### [Table of Contents](https://wondwosentsige.github.io/reading-notes/Code-201/Home)
 
 ## Class 02 reading notes
 
@@ -55,6 +55,6 @@
 
 
 
-[>> NEXT (class 03 reading)](https://wondwosentsige.github.io/code-201-reading-notes/class-03)
+[>> NEXT (class 03 reading)](https://wondwosentsige.github.io/reading-notes/Code-201/class-03)
 
 
