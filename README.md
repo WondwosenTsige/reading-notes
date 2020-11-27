@@ -6,7 +6,7 @@
 
 ### **Table of Contents**
 
-[class 01 reading](https://wondwosentsige.github.io/reading-notes/class-01)
+[class 01 reading](https://wondwosentsige.github.io/Code201/reading-notes/class-01)
 
 [class 02 reading](https://wondwosentsige.github.io/reading-notes/class-02)
 
@@ -42,6 +42,8 @@
 
 ## _Code 301 - Intermediate Software Development_
 
+### **Table of Contents**
+
 [class 01 reading](https://wondwosentsige.github.io/reading-notes/301-class-01)
 
 [class 02 reading](https://wondwosentsige.github.io/reading-notes/301-class-02)
@@ -69,6 +71,8 @@
 [class 13 reading](https://wondwosentsige.github.io/reading-notes/301-class-13)
 
 ## _Code 401 - Advanced Software Development_
+
+### **Table of Contents**
 
 
 
